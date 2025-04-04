@@ -1,0 +1,2 @@
+player_id,season_id,league_id,team_id,team_abbreviation,player_age,gp,gs,min,fgm,fga,fg_pct,fg3m,fg3a,fg3_pct,ftm,fta,ft_pct,oreb,dreb,reb,ast,stl,blk,tov,pf,pts
+1627759,2023-24,00,1610612738,BOS,27.0,70,70,2343.0,627,1256,0.499,145,410,0.354,211,300,0.703,84,303,387,249,83,37,166,185,1610
